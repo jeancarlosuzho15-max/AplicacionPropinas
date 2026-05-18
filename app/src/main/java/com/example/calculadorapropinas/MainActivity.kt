@@ -75,7 +75,7 @@ fun CalculadoraPropinas() {
             },
             modifier = Modifier.fillMaxWidth()
         ) {
-            Text("Calcular propina")
+            Text("Calcular Propina")
         }
 
         Spacer(modifier = Modifier.height(24.dp))

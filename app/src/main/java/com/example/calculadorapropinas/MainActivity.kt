@@ -37,7 +37,7 @@ fun CalculadoraPropinas() {
     ) {
 
         Text(
-            text = "Calculadora de Propinas",
+            text = "Calculadora de Propinas App",
             style = MaterialTheme.typography.headlineMedium
         )
 
